@@ -34,7 +34,7 @@ Além disto, é bom ter um editor para trabalhar com o código como [VSCode](htt
 
 ```bash
 # Clone este repositório
-$ git clone git@github.com:juniorwmr/botwhatsapp-venom.git
+$ git clone https://github.com/orkestral/botwhatsapp-venom
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd botwhatsapp-venom
